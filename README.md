@@ -2,7 +2,7 @@
 # Clean Mean Algorithm
 
 ## Problem Statement
-This repository contains a solution to the Codewars challenge: [Clean Mean](https://www.codewars.com/kata/5962d557be3f8bb0ca000010/python).
+This repository contains a solution to the Codewars challenge: [Mean without outliers](https://www.codewars.com/kata/5962d557be3f8bb0ca000010/python).
 
 The task is to remove outliers from a list of numbers iteratively, using a cutoff based on the standard deviation. The goal is to calculate a "clean mean" that excludes any values too far from the mean.
 
